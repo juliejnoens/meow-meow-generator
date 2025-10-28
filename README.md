@@ -1,15 +1,17 @@
-# 🐱 Meow Meow Generator
+# 🐱 welcome to meow meow generator!
 
-A whimsical web-based cat avatar creator that lets you design and download custom pixel-art style cats with various colors, patterns, and expressions.
+I created this silly little interactive web app as a way to test out how I can blend riso illustration, html code + my first go-around at github! All illustrated elements are original :)
+
+hope you have fun creating your own meow meow! ₍^. .^₎Ⳋ
 
 ## Features
 
-### Two Creation Modes
+### two modes
 
 **Build Mode** - Customize your cat step-by-step:
-- Choose from 8 body colors (white, orange, black, gray, brown, cream, ginger, calico)
+- Choose from 4 body colors (white, orange, black, gray)
 - Add patterns (stripes, spots, tuxedo, patches) - available only for white cats
-- Select from 6 different expressions (happy, sad, angry, surprised, sleepy, playful)
+- Select from 4 different expressions (happy, sad, shook, and smiley)
 
 **Chaos Mode** - Discover random cat combinations:
 - Use the chaos slider to explore pre-set cat combinations
@@ -18,10 +20,8 @@ A whimsical web-based cat avatar creator that lets you design and download custo
 
 ### Additional Features
 
-- **Cat Names**: Each unique combination has its own generated cat name
 - **Download**: Export your creation as an 800x800px PNG image
-- **Responsive Canvas**: Cats render with crisp pixel-art styling
-- **Layer System**: Sophisticated rendering with body color, shadows, patterns, expressions, and outlines
+- **Responsive Canvas**: Cats render with crisp riso-art styling
 
 ## Usage
 
